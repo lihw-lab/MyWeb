@@ -1,4 +1,3 @@
-languageCode: en
 title: Hongwei's website
 theme: hugo-theme-cactus
 copyright: You
@@ -50,7 +49,7 @@ params:
     Since websites are viewed far more often than they are edited, Hugo is designed
     to provide an optimal viewing experience for your website’s end users and an ideal
     writing experience for website authors.
-  googleAnalyticsAsync: yes
+  googleAnalyticsAsync: ''
   mainSection: posts
   postsOnHomePage: 5
   projectsUrl: https://github.com/gohugoio
