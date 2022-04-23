@@ -60,6 +60,9 @@ params:
   showAllPostsOnHomePage: no
   showProjectsList: yes
   showReadTime: yes
+  preloader:
+    enable: no
+    preloader: ''
   social:
     - link: https://github.com/lihw-lab
       name: github
