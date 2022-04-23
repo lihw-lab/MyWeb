@@ -1,7 +1,6 @@
 title: Hongwei's website
 theme: hugo-theme-cactus
 copyright: You
-disqusShortname: example
 menu:
   main:
     - name: Home
