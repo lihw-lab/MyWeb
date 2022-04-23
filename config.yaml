@@ -47,7 +47,7 @@ params:
       theme: github-light
   dateFormat: '2006-01-02'
   description: The site is used to record personal growth. Work hard for my family, especially my girlfriend, He Yuan.
-  googleAnalyticsAsync: ''
+  googleAnalyticsAsync: yes
   mainSection: posts
   postsOnHomePage: 5
   projectsUrl: https://github.com/gohugoio
