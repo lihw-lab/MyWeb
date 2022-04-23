@@ -10,5 +10,4 @@ tags:
 title: this is a TEST.
 ---
 
-这是中文
 This is English.
