@@ -40,7 +40,7 @@ params:
     cactuscomments:
       siteName: your_cactus_comments_sitename
     enabled: yes
-    engine: cactus_comments
+#    engine: cactus_comments
     utterances:
       label: hugo-site-name
       repo: <github_username>/<github_reponame>
