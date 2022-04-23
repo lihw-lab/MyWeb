@@ -1,6 +1,10 @@
 title: Hongwei's website
 theme: hugo-theme-cactus
 copyright: You
+module:
+  hugoVersion:
+    extended: yes
+    min: 0.87.0
 menu:
   main:
     - name: Home
